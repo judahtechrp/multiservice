@@ -6,7 +6,7 @@ require 'funcoes.php';
 define('HOST', 'smysql://mysql:Ma2220410al@@##@saas_multidb:3306/saas');
 define('USER', 'mysql');
 define('PASS', 'Ma2220410al@@##');
-define('DBSA', 'saas');
+define('DBSA', 'multidb');
 
 define("EMAIL_MSG","suporte@judahtech.com.br"); //Email para recebimento e envio de mensagens
 define("PHONE_NUMBER","16992013584"); //Telefone para chamarem no whats
