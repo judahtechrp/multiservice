@@ -3,7 +3,7 @@ require 'funcoes.php';
 
 
 // CONFIGRAÇÕES DO BANCO DE DADOS ####################
-define('HOST', 'localhost');
+define('HOST', 'mysql://mysql:Ma2220410al@@##@saas_multidb:3306/saas');
 define('USER', 'mysql');
 define('PASS', 'Ma2220410al@@##');
 define('DBSA', 'multidb');
